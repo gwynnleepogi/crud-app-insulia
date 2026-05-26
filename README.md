@@ -1,3 +1,6 @@
 # CRUD Application using Vue, Express & Supabase
 
-Author: Sir Vernyll Jan Pogi
+Members: Abrias, Jason A.
+         Garcia, Erick Justine T.
+         Insulia, Gwynn Lee O.
+        
